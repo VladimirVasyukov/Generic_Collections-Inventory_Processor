@@ -16,3 +16,4 @@
 42369=iPhone_XS_Max
 36701=Galaxy_Note_4
 32478=iPhone_XR
+27593=Xperia_X
